@@ -1,28 +1,24 @@
 import com.sun.javafx.geom.BaseBounds;
 
 import java.util.ArrayList;
-
+//  TO COMPLETE
 public class SelectionSort {
-
     public static void main(String[] args) {
-        int[] arr = {5, 8, 1, 3, 9, 6};
+        int[] array = {10, 5, 6, 18, 50};
+        selection(array);
+    }
 
-        for (int i = 1; i < arr.length ; i++) {
-            int num = arr[i];
-            int previous = i-1;
-
-            while(previous >= 0 && num < arr[previous]) {
-                int temp = arr[previous];
-                arr[previous] = arr[previous + 1];
-                arr[previous + 1] = temp;
-                previous--;
+    public static int[] selection(int[] array) {
+        int min = 0, index = 0;
+        min = array[0];
+        for (int i = 0; i < array.length ; i++) {
+            if(array[i] < min) {
+                min = array[i];
+                System.out.println(min);
             }
         }
-
-        for(int n : arr) {
-            System.out.print(n + " ");
-        }
-
+        System.out.println(min);
+        return array;
     }
 
 }

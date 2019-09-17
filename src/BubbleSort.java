@@ -25,7 +25,6 @@ public class BubbleSort {
         for(int n : arr) {
             System.out.print(n + " ");
         }
-
         System.out.println(": Bubble Sort Optimized");
     }
 
@@ -42,7 +41,6 @@ public class BubbleSort {
         for (int n: arr) {
             System.out.print(n + " ");
         }
-
         System.out.println(": Bubble Sort");
     }
 }
