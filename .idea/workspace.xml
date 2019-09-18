@@ -39,9 +39,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Stack">
+  <component name="RunManager" selected="Application.Node">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="JavaPrep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Node" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="JavaPrep" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack" />
       <module name="JavaPrep" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Node" />
         <item itemvalue="Application.Stack" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.Scratch" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
