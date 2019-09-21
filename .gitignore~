@@ -1,0 +1,6 @@
+# ignore irrelevant folders
+.idea/
+out/
+
+#ignoring iml
+JavaPrep.iml
