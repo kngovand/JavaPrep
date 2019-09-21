@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JewelsAndStones">
+  <component name="RunManager" selected="Application.ToLowercase">
     <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fizzbuzz" />
       <module name="JavaPrep" />
@@ -65,13 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <module name="JavaPrep" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="JavaPrep" />
@@ -79,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToLowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToLowercase" />
+      <module name="JavaPrep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToLowercase" />
         <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.IpDefanger" />
         <item itemvalue="Application.Fizzbuzz" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.Scratch" />
       </list>
     </recent_temporary>
   </component>
