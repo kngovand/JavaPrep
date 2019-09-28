@@ -43,16 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MorseCode">
-    <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fizzbuzz" />
-      <module name="JavaPrep" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IpDefanger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IpDefanger" />
+  <component name="RunManager" selected="Application.RemovingDuplicates">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemovingDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemovingDuplicates" />
+      <module name="JavaPrep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ToLowercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ToLowercase" />
       <module name="JavaPrep" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemovingDuplicates" />
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.MorseCode" />
         <item itemvalue="Application.ToLowercase" />
         <item itemvalue="Application.JewelsAndStones" />
-        <item itemvalue="Application.IpDefanger" />
-        <item itemvalue="Application.Fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
