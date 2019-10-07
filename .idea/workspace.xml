@@ -21,7 +21,7 @@
   </component>
   <component name="ProjectId" id="1QiOX6UwLNfX3bpJ3TNujQlFShQ" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringProject/movie-catalog-service" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -43,16 +43,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleNumber">
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+  <component name="RunManager" selected="Application.ArrayIntersection">
+    <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayIntersection" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemovingDuplicates" />
+    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JewelsAndStones" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIntersection" />
+        <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ReverseInt" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.RemovingDuplicates" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
