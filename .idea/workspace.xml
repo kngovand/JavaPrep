@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e9ec26-3091-4d4e-bc8c-4e96da56014b" name="Default Changelist" comment="" />
+    <list default="true" id="c4e9ec26-3091-4d4e-bc8c-4e96da56014b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseInt.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayIntersection">
+  <component name="RunManager" selected="Application.MoveZeroes">
     <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayIntersection" />
       <module name="JavaPrep" />
@@ -58,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInt" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseInt" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.ArrayIntersection" />
         <item itemvalue="Application.JewelsAndStones" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.ReverseInt" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>

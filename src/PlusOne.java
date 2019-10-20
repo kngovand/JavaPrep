@@ -5,7 +5,7 @@
 
 public class PlusOne {
     public int[] plusOne(int[] digits) {
-        int[] result;
+        int[] result = digits;
         if(digits.length == 1) {
             if(digits[digits.length-1] == 9) {
                 result = new int[2];

@@ -1,10 +1,13 @@
 import java.util.*;
-// Todo: integer overflows
+// Todo: integer overflows - COMPLETE
 public class ReverseInt {
     public static int reverse(int x) {
+        if(x > 2147483647 || x < -2147483647) return 0;
+
         char[] chars = ("" + x).toCharArray();
         char[] chars2 = new char[chars.length];
         int counter = chars2.length-1;
+        int result = 0;
 
         for(int i = 0; i < chars.length; i++) {
             if(chars[i] == '-') {
@@ -14,7 +17,12 @@ public class ReverseInt {
             chars2[counter] = chars[i];
             counter--;
         }
-        int result = Integer.parseInt(String.valueOf(chars2));
+        try {
+            result = Integer.parseInt(String.valueOf(chars2));
+        }
+        catch(Exception e) {
+            System.out.println(e);
+        }
         return result;
     }
 
