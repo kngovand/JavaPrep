@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
 public class UniqueChar {
     public static int firstUniqChar(String s) {
@@ -27,9 +25,4 @@ public class UniqueChar {
 
         return result;
     }
-
-    public static void main(String[] args) {
-        System.out.println(firstUniqChar("loveleetcode"));
-    }
 }
-
