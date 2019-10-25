@@ -1,3 +1,4 @@
+//Todo: Fix small input cases
 public class Palindrome {
     public boolean isPalindrome(String s) {
         boolean condition = false;
