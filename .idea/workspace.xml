@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e9ec26-3091-4d4e-bc8c-4e96da56014b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,9 +52,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveZeroes">
+  <component name="RunManager" selected="Application.MergeSortedArray">
     <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayIntersection" />
+      <module name="JavaPrep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsPalindrome" />
       <module name="JavaPrep" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
+      <module name="JavaPrep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MoveZeroes" />
       <module name="JavaPrep" />
@@ -71,27 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInt" />
-      <module name="JavaPrep" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
-      <module name="JavaPrep" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.MoveZeroes" />
         <item itemvalue="Application.ArrayIntersection" />
         <item itemvalue="Application.JewelsAndStones" />
-        <item itemvalue="Application.SingleNumber" />
-        <item itemvalue="Application.ReverseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571533667305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UniqueChar complete">
+      <created>1571539709555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571539709555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -141,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ReverseInt now working! MoveZeroes complete, need to fix PlusOne" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseInt now working! MoveZeroes complete, need to fix PlusOne" />
+    <MESSAGE value="UniqueChar complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="UniqueChar complete" />
   </component>
 </project>
